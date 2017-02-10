@@ -1,4 +1,3 @@
 I'm learning git.
-Actually,I barely know what git really is.
-But,I will find it soon.
+Now I know what git is.
 I'm not kidding.
